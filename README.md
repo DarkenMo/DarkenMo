@@ -1,0 +1,4 @@
+- Hi, I’m mo i'm a hobby developer
+- I’m interested in web-dev
+- I’m currently learning backend development
+- You can reach me on my discord : DarkenMo#3693
