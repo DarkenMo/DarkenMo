@@ -1,4 +1,1 @@
-- Hi, I’m mo i'm a hobby developer
-- I’m interested in web-dev
-- I’m currently learning backend development
-- You can reach me on my discord : DarkenMo#3693
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
