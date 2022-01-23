@@ -1,4 +1,4 @@
-<img src="banner.png" allign="center" />
+<img src="assets/banner.png" allign="center" />
 
 # Hi human.
 
