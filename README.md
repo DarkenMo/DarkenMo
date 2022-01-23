@@ -1,7 +1,5 @@
 <img src="banner.png" allign="center" />
 
-[![Visits Badge](https://badges.pufler.dev/visits/DarkenMo/DarkenMo)](http://darkenmo.xyz)
-
 <h1>hi im mo also known as DarkenMo.</h1>
 
 - I'm a highschool student in kuwait.
