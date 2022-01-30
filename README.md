@@ -10,6 +10,8 @@
 
 - I'm also looking for people to do projects with! :handshake:
 
+- Karaj :handshake:
+
 # Intrests
 - Apart from coding i enjoy watching anime, shows, movies and ect... :movie_camera:
 - I also like colognes a lot and reading books :book:
