@@ -25,6 +25,8 @@
 ![](https://img.shields.io/badge/Code-Html/Css-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Hosting-null-informational?style=flat&color=red)
 ![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=Django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 
 
