@@ -32,3 +32,4 @@
 
 # Socials
 - You can find me on discord its DarkenMo#3693
+- More about me is on my website at darkenmo.xyz
